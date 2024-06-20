@@ -1,7 +1,7 @@
 cffi==1.15.1
-cryptography==41.0.4
+cryptography==42.0.8
 pycparser==2.21
-pycryptodome==3.19.0
+pycryptodome==3.20.0
 pyusb==1.2.1
 six==1.16.0
 yubihsm==2.1.3
