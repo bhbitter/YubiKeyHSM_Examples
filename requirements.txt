@@ -1,5 +1,5 @@
 cffi==1.15.1
-cryptography==42.0.8
+cryptography==43.0.1
 pycparser==2.21
 pycryptodome==3.20.0
 pyusb==1.2.1
